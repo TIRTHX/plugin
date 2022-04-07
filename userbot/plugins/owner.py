@@ -26,7 +26,7 @@ async def _(event):
     result = result.stringify()
     logger.info(result)  # pylint:disable=E0602
     await event.edit(
-        """My Owner @OS_xD,`A Passionate Developer From India✌️Python,Java,Linux💙`.Sponsor By `RC`"""
+        """My Owner @AnKiT_KuMaR_xD,`A Passionate Developer From India✌️Python,Java,Linux💙`.Sponsor By `RC`"""
     )
 
 
